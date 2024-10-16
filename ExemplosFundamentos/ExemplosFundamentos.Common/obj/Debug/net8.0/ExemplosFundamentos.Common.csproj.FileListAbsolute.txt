@@ -1,0 +1,11 @@
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.deps.json
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\bin\Debug\net8.0\ExemplosFundamentos.Common.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\refint\ExemplosFundamentos.Common.dll
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ExemplosFundamentos.Common.pdb
+C:\Users\bruno\OneDrive\Área de Trabalho\Estudos\Aprendendo\ExemplosFundamentos\ExemplosFundamentos.Common\obj\Debug\net8.0\ref\ExemplosFundamentos.Common.dll
